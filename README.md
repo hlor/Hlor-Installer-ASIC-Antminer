@@ -11,7 +11,7 @@ Download Hlor Installer: https://github.com/hlor/Hlor-Installer-ASIC-Antminer/re
 - Fill in your Hlor account details on your ASIC
 - Find your Hlor within your profile on Hlor Explorer https://hlor.io/profile
 
-Currently Hlor Installer works only with Bitmain Antminer S9/S9i/T9+/D3/L3+. Supports all original Bitmain firmware versions.
+Currently Hlor Installer works only with Bitmain Antminer S9/S9i/T9/T9+/D3/L3/L3+/L3++. Supports all original Bitmain firmware versions.
 New models will be added soon, follow us to get updates.
 
 Hlor Addon does not effect your ASIC's original hashrate.
